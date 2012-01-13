@@ -1,4 +1,0 @@
-/home/wow/wowserver/trinity/bin/bin/authserver
-/home/wow/wowserver/trinity/bin/etc/authserver.conf.dist
-/home/wow/wowserver/trinity/bin/bin/worldserver
-/home/wow/wowserver/trinity/bin/etc/worldserver.conf.dist
